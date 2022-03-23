@@ -1,0 +1,36 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-width: 2px;
+    border-radius: 20px;
+    border-style: ridge;
+    border-color: black;
+}
+
+.input {
+    margin-top: 20px;
+}
+
+#calcular {
+    margin-top: 20px;
+}
+
+input {
+    margin-left: 20px;
+}
+
+label {
+    align-content: left;
+    ;
+}
